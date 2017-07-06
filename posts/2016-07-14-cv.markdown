@@ -1,0 +1,8 @@
+---
+layout: "post"
+title:  "cv"
+date: 2016-07-14 00:12:00
+permalink: cv
+---
+
+
